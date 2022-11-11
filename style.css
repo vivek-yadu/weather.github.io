@@ -3,16 +3,17 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-    background-color: cyan;
 }
 
 body {
     position: relative;
+    background-color: cyan;
     font-family: 'Poppins', sans-serif;
     background-repeat: no-repeat;
     background-size: cover;
     overflow: hidden;
     height: 100vh;
+    z-index: 1;
 }
 
 .container {
