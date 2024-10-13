@@ -5,7 +5,7 @@ const timezone = document.getElementById('time-zone');
 const countryE1 = document.getElementById('country');
 const weatherForecastE1 = document.getElementById('weather-forecast');
 const currentTempE1 = document.getElementById('current-temp');
-API_key = '53b55550c45de8d7437c3f65da745338';
+API_key = '68d9e8a2d65fcecf0ae385b2c888fc47';
 
 const days = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Stadurday'];
 const months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sept', 'Oct', 'Nov', 'Dec'];
